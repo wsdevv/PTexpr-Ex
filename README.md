@@ -8,7 +8,7 @@ Right now, the project is only a semi-functional tokenizer, not meant to be run 
 
 The current implementation (unfinished JSON "tokenizer") works at ~12 seconds per 1.4 Gigabytes of data (embedded into the binary, file not uploaded here). (tested on Intel Core i7)
 
-Example sample data (zig concatination format) : "{" ++ "'hello world'!:9999"**10000
+Example sample data (zig concatination format) : "{" ++ "'hello world'!:9999,"**10000
 
 
 ## Questions

@@ -10,8 +10,3 @@ The current implementation (unfinished JSON "tokenizer") works at ~12 seconds pe
 
 Example sample data (zig concatination format) : "{" ++ "'hello world'!:9999,"**10000
 
-
-## Questions
-If you somehow stumble upon this "library" (personal project), and have any questions (such as testing or trying it out yourself), shoot me an email.
-```wesley.schell.sh@proton.me```
-(hint: comptime linked tries, at an expense of binary file size)
